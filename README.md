@@ -2,7 +2,7 @@
 # Hactoberfest 2021
 
 ![logo](Images/Hactoberfest.png?raw=true "logo")
-#### Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
+#### Hacktoberfest encourages to participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
 ### How to participate?
 - Star this repository 
@@ -28,3 +28,8 @@
     As per organizers mentioned, You have to make minimum of 4 pull requests
     
 - #### Visit https://hacktoberfest.digitalocean.com/faq for more details about this event.
+#Hactoberfest #hactoberfest2021
+@hactoberfest 
+@Hactoberfest 
+#hactoberfest
+@hactoberfest
